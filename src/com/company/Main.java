@@ -8,5 +8,7 @@ public class Main {
 
         Product product=new Product("keyboard");
         System.out.println(product.getName());
+
+
     }
 }
